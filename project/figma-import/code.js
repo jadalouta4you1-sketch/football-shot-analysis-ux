@@ -57,7 +57,7 @@ async function build() {
 }
 const board=[
  ["Starting point",["What can the coach justify from one match?","User: choose clips before the debrief.","Club: focus the training discussion.","Constraint: two outside attempts.","Riskiest assumption: spatial cues improve explanation.","Target: correct zone and counts within 60 s, at least 80%."]],
- ["Discovery • AI role simulation",["P1: picked 50% first.","P2: needed the marker key.","P3: wanted proof of saving.","Interpretation: preserve denominators.","Working persona: time-limited university coach.","Journey: find → compare → explain → save."]],
+ ["Discovery • scripted role exercise",["P1: picked 50% first.","P2: needed the marker key.","P3: wanted proof of saving.","Interpretation: preserve denominators.","Working persona: time-limited university coach.","Journey: find → compare → explain → save."]],
  ["Prioritization",["HMW reveal sample size?","HMW identify outcomes without colour?","HMW make saving unambiguous?","High impact, easy: counts, legend, receipt.","High impact, more effort: matched layouts.","Lower impact: fixture label, note, video playback, live feed."]],
  ["Content and flow",["Match list → comparison → review → receipt.","Zero shots → undefined rate.","Tied rates → compare volume.","Missing data → choose another match.","Date and opponent identify each fixture.","Review groups selected zone, counts and save action."]],
  ["Iteration • simulation",["Initial table: 2 of 3 within criterion.","Initial combined: 2 of 3 within criterion.","P2 exceeded 60 s looking for marker meaning.","P3 omitted the denominator in table condition.","Changes: key, counts, named receipt.","Generated retest: 3 of 3. No human timing measurements."]]

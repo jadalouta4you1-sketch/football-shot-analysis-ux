@@ -1,6 +1,6 @@
 # Research and usability-testing plan
 
-**The instructor-directed AI exercise and its results are recorded in [the simulation report](research-simulation.md). This protocol also supports a future live replication.**
+**The scripted classroom exercise and its results are recorded in [the simulation report](research-simulation.md). This protocol also supports a future live replication.**
 
 ## Research objective
 

@@ -15,4 +15,4 @@ Each milestone develops the same coach task.
 | 09 | [Iterations, retest and handoff](../../homework/09/README.md) |
 | 10 | [Final presentation and reflection](../../homework/10/README.md) |
 
-Native canvas revisions are supplied as an import. Live Figma inspection, team sharing, native component/variable binding and the GitHub Projects board are unverified. The published brief specifies participant work; the supplied exercise follows the instructor’s simulation exception as reported by the student.
+The prototype, testing scenarios, retest and presentation are available above. The native canvas revisions are packaged for import. Applying and verifying them in the shared Figma files is still open. No GitHub Projects board was visible from the repository’s public Projects tab.

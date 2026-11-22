@@ -21,7 +21,7 @@ Inside produced more goals. Outside has the higher conversion rate, but just two
 
 **Counts  /  marker meaning  /  save status**
 
-In an AI-generated discovery exercise, P1 looked first at the percentage, P2 needed the marker key and P3 sought confirmation. The working persona has enough football knowledge to read a pitch, but limited time to check every denominator.
+In a scripted discovery exercise, P1 looked first at the percentage, P2 needed the marker key and P3 sought confirmation. The working persona has enough football knowledge to read a pitch, but limited time to check every denominator.
 
 ---
 
@@ -43,7 +43,7 @@ Pair counts with rates. Keep a table-only view for comparison and a nearby legen
 
 ---
 
-<!--@slide 06   AI-GENERATED TEST-->
+<!--@slide 06   SCRIPTED TEST-->
 # The first exercise fell short in both layouts
 
 **Table  2/3             Table + map  2/3**

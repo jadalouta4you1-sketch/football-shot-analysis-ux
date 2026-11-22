@@ -4,7 +4,7 @@ A university coach compares shot counts and rates to select a video-review candi
 
 ## Results
 
-Both layouts scored 2/3 on the initial AI exercise. The revised combined layout scored 3/3 on the generated retest. These results illustrate the evaluation method. No human comparison times were collected.
+Both layouts scored 2/3 on the first scripted comparison. The revised combined layout scored 3/3 on the scripted retest. These results illustrate the evaluation method. No human comparison times were collected.
 
 ## Weekly milestones
 

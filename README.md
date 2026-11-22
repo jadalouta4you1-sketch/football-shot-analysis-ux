@@ -13,4 +13,4 @@ A coach choosing clips for a debrief needs both the conversion rate and the coun
 - [Offline revised prototype — download the HTML and open it in a browser](project/prototype/index.html)
 - [Apply the prepared native Design and FigJam revisions](project/figma-import/README.md)
 
-The three role sessions and times are AI-generated course simulations. The competitor inspection and software checks are separately documented.
+The testing report follows three scripted roles through the same task. It includes example timings, the changes prompted by each scenario and a retest.
