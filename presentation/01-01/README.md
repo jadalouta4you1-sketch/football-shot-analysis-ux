@@ -1,7 +1,7 @@
 ---
-week: course project
+week: 10
 id: 01-01
 ---
-# Football Shot Analysis for Training Decisions
+# Football shot analysis
 
-A single UX/UI semester project exploring whether a shot map paired with a statistics table helps a football coach compare zones when preparing video review. This presentation source distinguishes illustrative data, observed walkthrough evidence, and user-test results that are still pending.
+[Slides](../../Football-Shot-Analysis-Reviewed.pdf) · [PowerMD source](presentation.md). Allow 30–45 seconds per slide including a one-minute demo on slide 9.

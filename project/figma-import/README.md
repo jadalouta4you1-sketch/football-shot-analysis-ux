@@ -1,0 +1,3 @@
+# Apply the prepared native revision
+
+Download the repository ZIP from GitHub and unzip it. In the Figma desktop app open the linked Design file on the prototype page. Under Plugins → Development → Import plugin from manifest choose this folder's manifest.json. Run “Football shot review · semester revision”. The same plugin can then run in the linked FigJam board. Use an account that can edit each file. The plugin adds material alongside the existing work, including wired Design frames, component variants and FigJam notes. Run once per target. If interrupted after a partial addition, inspect the named sections before retrying. No network access is requested. The native import was syntax-checked; execution and native canvas layout remain unverified.

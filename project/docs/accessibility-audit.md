@@ -1,27 +1,16 @@
-# Usability and accessibility audit
+# Reviewing match data on Football-Data.co.uk
 
-**Status: in progress.** This file separates observed evidence from items that have not been checked.
+Inspecting the England archive on 22 November 2026. Task: find the current Premier League statistics for a match debrief. The site offers season downloads; it is an adjacent workflow for locating match statistics. Screen details below identify the evidence. The existing project's FotMob audit count is not used here. [Examined archive](https://football-data.co.uk/englandm.php)
 
-## Documented observation
+| ID / severity | Annotated screen detail or check | Principle and consequence | Improvement |
+|---|---|---|---|
+| A1 High | Pressed Tab six times from the loaded page. Focus traversed links and the Network Sites selector before reaching any league download. | Keyboard bypass / efficient navigation. Repeated navigation slows access to the main task. | Add a visible-on-focus skip link to league downloads. |
+| A2 High | “Data Files: England” and season labels appear as ordinary text. The rendered document had zero h1, h2 or h3 elements. | Semantic relationships. Heading navigation cannot jump to a season. | Use one page heading and season subheadings. |
+| A3 Medium | 34 links have exactly the text “Premier League” across seasons. | Link purpose. In an isolated list of links the season is ambiguous. | Include season and league in each accessible name. |
+| A4 Medium | The date near the top reads 20/11/26; the archive section gives 16/11/26. | System status. A reviewer must infer which date applies to the match file. | Label site and dataset dates separately at point of choice. |
+| A5 Medium | League rows list “FT & HT” and “AH”; definitions are in a separate Notes.txt file. | Match with user language / recognition. The reviewer leaves the choice to decode coverage. | Explain abbreviations inline and preview relevant columns. |
+| A6 Medium | Season entries lead to league-wide CSVs. The index presents no match picker alongside the file list. | Task efficiency. Choosing one fixture requires opening and filtering another artifact. | Offer a team/date preview with a route to the full dataset. |
 
-| ID | Evidence | Issue | Change | Verification | Status |
-|---|---|---|---|---|---|
-| A-01 | Designer walkthrough of the summary screen | Clicking “Save candidate” gave no visible confirmation, so the user could not tell whether the action completed | The button now opens a saved-state screen headed “Saved for video review”; “Back to comparison” remains a separate action | The designer clicked Save candidate again and saw the saved-state heading | Navigation checked; user understanding not yet tested |
+**States on the audited index.** Normal lists available seasons. Loading and success are delegated to the browser download flow. No-results, load failure and disabled match actions were not observed on this static index. No deceptive pattern was established in the task.
 
-The presentation previously mentioned five “verified” findings without listing the evidence. That count is not substantiated in the repository and is intentionally not repeated here. Add findings only after directly observing and documenting them.
-
-## Audit checklist
-
-Review the Figma screens and clickable prototype. For every issue, record the screen/state, exact evidence, user consequence, severity, recommendation, and retest status.
-
-- **Task clarity:** Can the user identify the match, compare zones, choose a pattern, and understand what is saved?
-- **Counts and rates:** Are attempts, goals, and conversion rate visible together? Is the denominator clear? Does the UI avoid implying that a 1/2 rate is strong evidence?
-- **Visual encoding:** Are goal and miss markers distinguishable without relying only on color? Is a legend close to the pitch map?
-- **Feedback and errors:** Are loading, empty, unavailable-data, success, and error states distinct? Can a user recover?
-- **Keyboard use:** Can every action be reached and operated with a keyboard, with a visible focus indicator and sensible order?
-- **Text and controls:** Are labels descriptive, text readable, contrast sufficient, and controls large enough to use comfortably?
-- **Responsive behavior:** Does the comparison remain understandable on narrow screens and at enlarged text?
-- **Assistive technology:** Are controls named, relationships understandable, and status changes announced where applicable?
-- **Ethics:** Are illustrative values clearly labeled? Does the interface avoid misleading recommendations or unsupported performance claims?
-
-A checklist item is not a verified pass until it has been inspected and the evidence is recorded. Use the course’s required WCAG reference when assigning criteria; do not guess criterion numbers.
+**Implications for the coach.** Identify each fixture by opponent + date; keep denominators with rates; show explicit confirmation. In the companion prototype check the main task by keyboard and retain tabular access to every aggregate shown on the pitch. This inspection does not certify WCAG conformance.

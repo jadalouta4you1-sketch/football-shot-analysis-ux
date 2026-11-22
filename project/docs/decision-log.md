@@ -1,8 +1,8 @@
-# Design decision log
+# Iterations and handoff
+| Priority / evidence | Hypothesis and change | Alternative and trade-off | Check and remaining uncertainty |
+|---|---|---|---|
+| High · earlier designer walkthrough: save had no visible result | A distinct receipt repeating match and zone will clarify completion. Original Figma snapshot shows the new heading; companion renders the named receipt. | A disappearing toast takes less space but cannot be reread. | Companion save handler reached receipt with the note. Human comprehension remains open. |
+| High · simulated P3 omitted the counts | Place goals, shots and rate in one row with a denominator reminder. | Ranking zones by rate is simpler but inflates a tiny sample. | Generated retest: all three cited counts. Generalization requires fresh fixtures. |
+| Medium · simulated P2 hesitated about dot meaning | Give goal and miss distinct fill states and an adjacent text legend; retain table-only mode. | Color alone saves space but depends on color discrimination. | Combined condition moved from 2/3 to 3/3 in the scripted retest. Several changes and repeated tasks confound attribution. |
 
-| ID | Observation / evidence | Hypothesis | Decision | Expected effect | Retest status |
-|---|---|---|---|---|---|
-| D-01 | In a designer walkthrough, Save candidate on the summary screen produced no visible confirmation | A visible saved state will help the user know that the save action completed | Route Save candidate to S6 with “Saved for video review”; keep “Back to comparison” separate | User can identify completion and return to comparison without ambiguity | Click path checked by the designer; participant retest pending |
-| D-02 | No participant comparison results have been collected | It is unknown whether the map improves accuracy or speed over a table alone | Keep both layouts as the comparison condition; do not claim one is better yet | The study can answer the project question using the same data in both layouts | Pending study |
-
-Record rejected alternatives and trade-offs when they arise in a real design decision. Do not backfill rationale as if it had been recorded at the time.
+**Functional check.** The companion's JavaScript ran against lightweight DOM substitutes. The layout toggle, receipt, overlong note, zero attempts, tied rates and unavailable state returned expected values. This verifies logic only. A graphical run of the companion and native Figma import still need checking. [Screen rules and UI guideline](design.md)

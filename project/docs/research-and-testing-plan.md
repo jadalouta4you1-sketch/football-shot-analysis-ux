@@ -1,6 +1,6 @@
 # Research and usability-testing plan
 
-**Status: planned. No participant sessions or comparison results are recorded yet.**
+**The instructor-directed AI exercise and its results are recorded in [the simulation report](research-simulation.md). This protocol also supports a future live replication.**
 
 ## Research objective
 
@@ -62,3 +62,4 @@ Record observations separately from interpretation. A pause or wrong answer is a
 ## Deliverables after sessions
 
 Add anonymized notes, a short findings summary, a severity-ranked issue list, and a decision-log entry for each design change. Update the presentation only from collected evidence. Until then, leave the result as “pending.”
+
