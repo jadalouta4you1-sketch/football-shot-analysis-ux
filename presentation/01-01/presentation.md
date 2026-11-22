@@ -77,7 +77,7 @@ P1: 46 s. P2: 52 s. P3: 57 s. With three roles, meeting the 80% target requires 
 
 Open the prototype, explain why 1 of 2 is a candidate for review, then save it. For an exception, open Hillview: data unavailable. The next slide is the visual backup for the original save path.
 
-[Open prototype](https://www.figma.com/proto/UZGFEctx8ckCYBNd13DlqQ/JAD-ALOUTA---UX-UI-Semester-Project---Figma-Design--HW06-10-?node-id=2-161&starting-point-node-id=2%3A161)
+[Open prototype](https://jadalouta4you1-sketch.github.io/football-shot-analysis-ux/)
 
 ---
 
@@ -86,4 +86,4 @@ Open the prototype, explain why 1 of 2 is a candidate for review, then save it. 
 
 **What changed after pressing Save?**
 
-The original project captured a comparison screen and the new confirmation heading. A code-level check also reached the receipt in the offline companion. A fresh-fixture test with coaches would answer the remaining question about comprehension and speed.
+The original project captured a comparison screen and the new confirmation heading. A browser walkthrough reached the receipt with the selected match, zone and note. A fresh-fixture test with coaches would answer the remaining question about comprehension and speed.
