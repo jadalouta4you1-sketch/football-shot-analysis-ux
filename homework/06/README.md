@@ -2,8 +2,10 @@
 week: 06
 neptun: PEJE99
 ---
-# Low-fidelity screens and responsive comparison
+# Wireframes
 
-[Stage artifact](../../project/docs/wireframes.svg) · [Design file](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ) · [FigJam](https://www.figma.com/board/VBS5Rkxi8Wo0WOWR1HYMJs)
+The comparison is the main decision screen. On a larger screen, the coach can read the table beside the pitch. On mobile the table comes first so the goal and shot counts are visible before the markers. A match with no data leads back to the picker. A zone with no attempts shows a dash for its rate.
 
-GitHub includes a grayscale sheet. Auto Layout is prepared in the native import.
+![Low-fidelity sheet showing match selection, comparison, review, confirmation and alternative states](../../project/docs/wireframes.svg)
+
+[Open the Figma design](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ)

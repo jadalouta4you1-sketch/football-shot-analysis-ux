@@ -1,8 +1,0 @@
-# Iterations and handoff
-| Priority / evidence | Hypothesis and change | Alternative and trade-off | Check and remaining uncertainty |
-|---|---|---|---|
-| High · earlier designer walkthrough: save had no visible result | A distinct receipt repeating match and zone will clarify completion. Original Figma snapshot shows the new heading; companion renders the named receipt. | A disappearing toast takes less space but cannot be reread. | Companion save handler reached receipt with the note. Human comprehension remains open. |
-| High · simulated P3 omitted the counts | Place goals, shots and rate in one row with a denominator reminder. | Ranking zones by rate is simpler but inflates a tiny sample. | Generated retest: all three cited counts. Generalization requires fresh fixtures. |
-| Medium · simulated P2 hesitated about dot meaning | Give goal and miss distinct fill states and an adjacent text legend; retain table-only mode. | Color alone saves space but depends on color discrimination. | Combined condition moved from 2/3 to 3/3 in the scripted retest. Several changes and repeated tasks confound attribution. |
-
-**Functional check.** The companion's JavaScript ran against lightweight DOM substitutes. The layout toggle, receipt, overlong note, zero attempts, tied rates and unavailable state returned expected values. In the [published prototype](https://jadalouta4you1-sketch.github.io/football-shot-analysis-ux/), a browser walkthrough confirmed both layout options, the 80-character validation message and the saved receipt showing Northside, Outside the box and the entered note. The native Figma import is still pending. [Screen rules and UI guideline](design.md)
