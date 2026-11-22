@@ -8,7 +8,7 @@ A coach choosing clips for a debrief needs both the conversion rate and the coun
 
 [View the final presentation (10-slide PDF)](Football-Shot-Analysis-Reviewed.pdf) · [Presentation source](presentation/01-01/presentation.md)
 
-To try the revised prototype, [download the project ZIP](https://github.com/jadalouta4you1-sketch/football-shot-analysis-ux/archive/refs/heads/main.zip), extract it and open `project/prototype/index.html` in a browser. Choose Northside, compare the two zones and save one for video review.
+[Try the revised prototype in your browser](https://jadalouta4you1-sketch.github.io/football-shot-analysis-ux/) · Choose Northside, compare the two zones and save one for video review.
 
 - [Project task board](https://github.com/users/jadalouta4you1-sketch/projects/1)
 - [Weekly milestones and supporting work](project/README.md#weekly-milestones)
