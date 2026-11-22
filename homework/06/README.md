@@ -8,4 +8,4 @@ The comparison is the main decision screen. On a larger screen, the coach can re
 
 ![Low-fidelity sheet showing match selection, comparison, review, confirmation and alternative states](../../project/docs/wireframes.svg)
 
-[Open the Figma design](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ)
+[Desktop wireframe](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ?node-id=2-26) · [Mobile wireframe](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ?node-id=47-138)

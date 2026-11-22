@@ -28,3 +28,5 @@ Both layouts score **2/3** in this scenario. Neither reaches 80%. Task order is 
 Body 17 px, section heading about 22 px, main heading 32–58 px; system sans. Use spacing steps of 8, 16, 24 and 32 px. Action #075B45 on white, body #16332B on white, focus #9A3B00 on white. White-on-action contrast exceeds 8:1. Use outline plus shape and text for marker meaning. Primary button advances, secondary returns, disabled waits for an eligible selection. Optional note has labeled default, outlined focus and text-error states. Radio buttons select exactly one zone. Tabbing follows reading order. New screens focus the heading. The table carries the map's numeric equivalent.
 
 [Severity and changes](../09/README.md) · [Figma design](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ)
+
+[FigJam walkthrough and retest](https://www.figma.com/board/VBS5Rkxi8Wo0WOWR1HYMJs?node-id=17-227)

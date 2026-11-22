@@ -10,11 +10,11 @@ neptun: PEJE99
 | High · simulated P3 omitted the counts | Place goals, shots and rate in one row with a denominator reminder. | Ranking zones by rate is simpler but inflates a tiny sample. | Scripted retest: all three cited counts. Generalization requires fresh fixtures. |
 | Medium · simulated P2 hesitated about dot meaning | Give goal and miss distinct fill states and an adjacent text legend; retain table-only mode. | Color alone saves space but depends on color discrimination. | Combined condition moved from 2/3 to 3/3 in the scripted retest. Several changes and repeated tasks confound attribution. |
 
-**Functional check.** The companion's JavaScript ran against lightweight DOM substitutes. The layout toggle, receipt, overlong note, zero attempts, tied rates and unavailable state returned expected values. In the [published prototype](https://jadalouta4you1-sketch.github.io/football-shot-analysis-ux/), a browser walkthrough confirmed both layout options, the 80-character validation message and the saved receipt showing Northside, Outside the box and the entered note. The native Figma import is still pending.
+**Functional check.** The companion's JavaScript ran against lightweight DOM substitutes. The layout toggle, receipt, overlong note, zero attempts, tied rates and unavailable state returned expected values. In the [published prototype](https://jadalouta4you1-sketch.github.io/football-shot-analysis-ux/), a browser walkthrough confirmed both layout options, the 80-character validation message and the saved receipt showing Northside, Outside the box and the entered note. The native prototype now links both zone rows to their own review and receipt screens. Its table-only view returns to the combined layout, and the match picker links to all three exceptional fixtures.
 
 
 ## Comparison handoff
 
 No data → offer another match. Zero attempts → dash, explanatory message and disabled choice. Equal rates → present both counts. A valid selection enables review. Back retains the selected zone. Changing fixture clears it. Optional note beyond 80 characters stays in review with a field-linked message. Confirmation repeats the fixture, zone and note. Demo state lasts only for the current page session. All fixtures are bundled; there is no asynchronous data load.
 
-[UI guidelines](../08/README.md#mini-ui-guideline) · [Figma components and handoff package](../../project/figma-import/README.md)
+[UI guidelines](../08/README.md#mini-ui-guideline) · [Native handoff and note states](https://www.figma.com/design/UZGFEctx8ckCYBNd13DlqQ?node-id=47-119)

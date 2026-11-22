@@ -19,3 +19,5 @@ On 22 November 2026 the task was to find Premier League match statistics in the 
 **States on the audited index.** Normal lists available seasons. Loading and success are delegated to the browser download flow. No-results, load failure and disabled match actions were not observed on this static index. No deceptive pattern was established in the task.
 
 **Implications for the coach.** Identify each fixture by opponent + date; keep denominators with rates; show explicit confirmation. In the companion prototype check the main task by keyboard and retain tabular access to every aggregate shown on the pitch. This inspection does not certify WCAG conformance.
+
+[View the six findings in FigJam](https://www.figma.com/board/VBS5Rkxi8Wo0WOWR1HYMJs?node-id=2-93)
