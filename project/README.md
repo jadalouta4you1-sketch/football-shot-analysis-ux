@@ -6,6 +6,8 @@ A university coach compares shot counts and rates to select a video-review candi
 
 Both layouts scored 2/3 on the first scripted comparison. The revised combined layout scored 3/3 on the scripted retest. These results illustrate the evaluation method. No human comparison times were collected.
 
+[View the GitHub Projects board](https://github.com/users/jadalouta4you1-sketch/projects/1)
+
 ## Weekly milestones
 
 | Week | Milestone and evidence |
