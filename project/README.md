@@ -21,4 +21,6 @@ Both layouts scored 2/3 on the first scripted comparison. The revised combined l
 | 09 | [Iterations, retest and handoff](../homework/09/README.md) |
 | 10 | [Final presentation and reflection](../homework/10/README.md) |
 
-[Ten-stage timeline and evidence](docs/course-coverage.md) · [Design decisions](docs/decision-log.md) · [Research protocol](docs/research-and-testing-plan.md) · [Native Figma import instructions](figma-import/README.md).
+[Design decisions](docs/decision-log.md) · [Research protocol](docs/research-and-testing-plan.md).
+
+The revised prototype runs in a browser. The [native revisions](figma-import/README.md) are packaged for import into Figma Design and FigJam.
